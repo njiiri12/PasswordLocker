@@ -30,4 +30,4 @@ use shortcode as displayed to prompt user details while following input instruct
 ## programme author
 Name:Yvonne Njiiri
 Contact:0769063078
-Email:njerinjiiri@gmail.com
+Email:njerinjiiri@gmail.co
