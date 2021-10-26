@@ -15,7 +15,7 @@ To access this project on your local files,you can clone it the following steps:
 
 4 Open run.py                                                                                            
 
-5 Run the programme.
+5 Run the 
 
 6 Open programme { ./run.py}
 
