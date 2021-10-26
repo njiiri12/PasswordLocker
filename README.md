@@ -1,4 +1,4 @@
-# Password-locker
+# Password-locke
 
 ##DESCRIPTION
 password_locker:password generater that utilizes python tools like saving deleting and finding and ensuring existence of files and objects thus ensuring user interactivity 
