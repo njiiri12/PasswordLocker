@@ -13,7 +13,7 @@ To access this project on your local files,you can clone it the following steps:
 
 3 This will clone repository to local folder.
 
-4 Open run.py or python3.6run.py                                                                                               
+4 Open run.py                                                                                            
 
 5 Run the programme.
 
