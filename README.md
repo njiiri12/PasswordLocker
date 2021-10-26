@@ -7,7 +7,7 @@ of an account is optimized
 ## SET-UP
 To access this project on your local files,you can clone it the following steps:
 
-1 Open your 
+1 Open your Terminal.
 
 2 Use this command to clone $, git clone.
 
