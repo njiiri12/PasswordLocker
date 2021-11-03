@@ -66,6 +66,17 @@ def save_users(user):
     Funtion to save the credential
     '''
     user.save_users()
+    
+@classmethod
+def password_gen(length):
+    """
+    generate random password
+    """
+    letters = string.ascii_lowercase
+    result1 = ''.join((random.sample(letters, length)))
+    platform_password = result1
+    return platform_password
+
 
 
 
